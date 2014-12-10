@@ -451,8 +451,8 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #9ddcff;
+  background: #e8f2c6 url(../images/header-str-png) 0 0 repeat-x;
+  border-bottom: solid 1px #336600;
 }
 
 header h1 {
@@ -639,7 +639,7 @@ form {
 }
 #main-content h2:before {
   content: "//";
-  color: #9ddcff;
+  color: #336600;
   padding-right: 0.3em;
   margin-left: -1.5em;
 }
@@ -656,7 +656,7 @@ form {
 
 #main-content h3:before {
   content: "///";
-  color: #9ddcff;
+  color: #336600;
   padding-right: 0.3em;
   margin-left: -2em;
 }
@@ -672,7 +672,7 @@ form {
 
 h4:before {
   content: "////";
-  color: #9ddcff;
+  color: #336600;
   padding-right: 0.3em;
   margin-left: -2.8em;
 }
@@ -686,7 +686,7 @@ h4:before {
 }
 h5:before {
   content: "/////";
-  color: #9ddcff;
+  color: #336600;
   padding-right: 0.3em;
   margin-left: -3.2em;
 }
@@ -700,7 +700,7 @@ h5:before {
 }
 h6:before {
   content: "//////";
-  color: #9ddcff;
+  color: #336600;
   padding-right: 0.3em;
   margin-left: -3.7em;
 }
