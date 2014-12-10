@@ -450,9 +450,9 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  border-bottom: solid 1px #9ddcff;
 }
 
 header h1 {
@@ -524,7 +524,7 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 a.button small {
   display: block;
@@ -624,13 +624,13 @@ form {
 
 #main-content h1:before {
   content: "/";
-  color: #9ddcff;
+  color: #336600;
   padding-right: 0.3em;
   margin-left: -0.9em;
 }
 
 #main-content h2 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -645,7 +645,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
@@ -662,7 +662,7 @@ form {
 }
 
 #main-content h4 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -692,7 +692,7 @@ h5:before {
 }
 
 #main-content h6 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
   margin-bottom: 8px;
   color: #474747;
