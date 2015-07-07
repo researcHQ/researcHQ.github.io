@@ -1,0 +1,39 @@
+# Site settings
+title: ResearcHQ.org
+url: http://researcHQ.org
+description: "ResearcHQ.org provides the civic sector access to trustworthy 
+             academic partners to increase timely, relevant, and cost-effective 
+             research that can readily improve society."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: 2E2729
+  background-light: f2f2f2
+  color-dark: 0D3309
+  color-light: cdd9b2
+  links: 009933
+  text: 545454
+  headers: 545454
+
+# Navbar
+brand-image: ''
+nav-items:
+    - name: Updates
+      href: ''
+    - name: Code
+      href: ''
+
+
+# Footer settings
+copyright: 2015 ResearcHQ.org
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/researcHQorg
+  - title: github
+    url: http://github.com/researcHQ
+
+# Build settings
+markdown: kramdown
+permalink: pretty
