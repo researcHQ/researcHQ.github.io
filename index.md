@@ -164,30 +164,30 @@ We are currently in the startup and fundraising stage of our non-profit venture 
 to launch formally by Winter/Spring 2016.  Currently we are working on the following goals:
 
 1. **Gain access to researchers**
-- negotiate first master agreement with academic institution
-- replicate across other priority institutions
+  * negotiate first master agreement with academic institution
+  * replicate across other priority institutions
 2. **Establish early investors**
-- fundraise $300,000 by October
-- complete tax-exempt status process
+  * fundraise $300,000 by October
+  * complete tax-exempt status process
 3. **Establish Trustworthiness**
-- update website to have more administrative transparency / evidence of good governance
-- establish formal academic and general advisory boards
-- establish financial systems
-- develop brand
-- benchmark organizational effectiveness
+  * update website to have more administrative transparency / evidence of good governance
+  * establish formal academic and general advisory boards
+  * establish financial systems
+  * develop brand
+  * benchmark organizational effectiveness
 4. **Establish Technology Platform**
-- pick technology development partner
-- complete an operational technology platform
+-- pick technology development partner
+-- complete an operational technology platform
 5. **Capture the Market for Research**
-- run some beta tests of legal and technology framework
-- develop an outreach and marketing strategy ahead of big January 2016 conference
-- develop research needs backlog prior to launch
+  * run some beta tests of legal and technology framework
+  * develop an outreach and marketing strategy ahead of big January 2016 conference
+  * develop research needs backlog prior to launch
 
 ## Want to help?  
 
 We are looking for partners/volunteers/investors for the following items:
-- technology platform development
-- university master agreement negotiation
+-- technology platform development
+-- university master agreement negotiation
 
 We also welcome feedback about the overall direction and model of the venture.  Its 
 current incarnation is based on multiple rounds of feedback and market research and we 
