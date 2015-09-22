@@ -48,7 +48,7 @@ politics rather than fact;
 
 #### Associated Problems
 
-There are number of adjunct problems to the one we are currently trying to tacke directly.
+There are number of adjunct problems to the one we are currently trying to tackle directly.
 They are significant enough issues that we cannot ignore them.
 
 * Competitive rather than collaborative academic environments that incentivize "winning"
@@ -133,7 +133,7 @@ ResearcHQ.org team is led by [Elizabeth Sall](https://www.linkedin.com/pub/eliza
 the former Deputy Director for Technology, Data, and Analysis at the 
 [S.F. County Transportation Authority (SFCTA)](www.sfcta.org/modeling).  Elizabeth decided 
 to start ResearcHQ.org after being consistently frustrated by the difficulties 
-of executing small contracts with Academic institutions while working in governemnt.  
+of executing small contracts with Academic institutions while working in government.  
 
 Elizabeth has experience and network in multiple sectors: government, non-profit, 
 and academic.  She hold several appointments to committees of the Transportation 
@@ -150,7 +150,7 @@ the initial ResearcHQ.org board is as follows:
 * **[Elizabeth Bent](http://www.linkedin.com/profile/view?id=11060042)**, a principal at 
 Nelson/Nygaard and extremely well-regarded civic-minded professional with 
 apt political savvy.
-* **[Alison Conway]http://www.linkedin.com/profile/view?id=10516292)**, PhD, an Asst. 
+* **[Alison Conway](http://www.linkedin.com/profile/view?id=10516292)**, PhD, an Asst. 
 Professor in Civil Engineering at the City College of N.Y. 
 and a member of Executive Committee of the Transportation Research Board. Dr. Conway 
 provides an academic’s perspective and experience working with government contracts.
