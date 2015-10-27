@@ -124,7 +124,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #e8f2c6 url(../img/header-str.png) 0 0 repeat-x;
   border-bottom: solid 1px #336600;
 }
@@ -198,7 +198,7 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 a.button small {
   display: block;
@@ -286,7 +286,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
-  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 2.8em;
   font-weight: normal;
   letter-spacing: -1px;
@@ -297,7 +297,6 @@ h1 {
 }
 
 h1:before {
-  content: "/";
   color: #545454;
   padding-right: 0.3em;
   margin-left: -0.9em;
@@ -313,7 +312,7 @@ h1:before {
 }
 
 h2 {
-  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -321,7 +320,6 @@ h2 {
   text-indent: 4px;
 }
 h2:before {
-  content: "//";
   color: #545454;
   padding-right: 0.3em;
   margin-left: -1.5em;
@@ -338,7 +336,7 @@ h2:before {
 
 
 h3 {
-  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
@@ -348,14 +346,13 @@ h3 {
 }
 
 h3:before {
-  content: "///";
   color: #545454;
   padding-right: 0.3em;
   margin-left: -2em;
 }
 
 h4 {
-  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: bold;
   margin-bottom: 8px;
@@ -364,35 +361,32 @@ h4 {
 }
 
 h4:before {
-  content: "////";
   color: #545454;
   padding-right: 0.3em;
   margin-left: -2.8em;
 }
 
 h5 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 14px;
   margin-bottom: 8px;
   color: #545454;
   text-indent: 3px;
 }
 h5:before {
-  content: "/////";
   color: #545454;
   padding-right: 0.3em;
   margin-left: -3.2em;
 }
 
 h6 {
-  font-family: 'Cabin Sketch', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
   margin-bottom: 8px;
   color: #545454;
   text-indent: 3px;
 }
 h6:before {
-  content: "//////";
   color: #545454;
   padding-right: 0.3em;
   margin-left: -3.7em;

@@ -1,5 +1,6 @@
 # Site settings
 title: ResearcHQ.org
+tagline:
 url: http://researcHQ.org
 description: "ResearcHQ.org provides the civic sector access to trustworthy 
              academic partners to increase timely, relevant, and cost-effective 
@@ -15,14 +16,20 @@ color:
   text: 545454
   headers: 545454
 
-# Navbar
-brand-image: ''
-nav-items:
-    - name: Updates
-      href: ''
-    - name: Code
-      href: ''
 
+# Navbar
+brand-image: 'img/R-square.png'
+nav-items:
+    - name: Problem
+      href: '#problem'
+    - name: Solution
+      href: '#solution'
+    - name: Progress
+      href: '#progress'
+    - name: Team
+      href: '#team'
+    - name: Join Us
+      href: '#join'
 
 # Footer settings
 copyright: 2015 ResearcHQ.org
