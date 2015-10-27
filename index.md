@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: front
 ---
 
 ## What is this?

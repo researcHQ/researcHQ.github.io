@@ -1,14 +1,55 @@
     <!-- Intro Header -->
-<header>
-    <div class="header">
-    <div class="container">
-    <div class="row">
-    
-      <div class="col-md-8 text-left">
-        <h1>researcHQ.org</h1>
-        <h2>user-funded research = useful research</h2>
-      </div>
-    </div>
-    </div>
-    </div>
-</header>
+   <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+            	
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <img src="{{ site.baseurl }}/{{ site.brand-image }}" alt="ResearcHQ"/>
+                </a>
+                <a class="navbar-brand" href="#page-top">{{ site.title }}</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+					<li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    {% for nav in site.nav-items limit: 6 %}
+                    	<li class="page-scroll">
+                        	<a class="page-scroll" href="{{ nav.href }}">{{ nav.name }}</a>
+                    	</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="intro-text">
+                        <div class="caption">{{ site.tagline }}<div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+<!--
+        {% for page in site.pages %}
+          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+        {% endfor %}
+ -->
+`
